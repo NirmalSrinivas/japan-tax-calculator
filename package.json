@@ -18,7 +18,7 @@
     "calculator",
     "income-tax"
   ],
-  "author": "Your Name",
+  "author": "Nirmalkumar Ranganathan Srinivasan",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.14",
